@@ -145,7 +145,7 @@
             }]
         }
     ],
-    "carving": {
+    "notcarving": {
         "ravines": [{
             "rarity": 442,
             "ravine": "volcanic/main"

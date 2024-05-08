@@ -34,7 +34,7 @@
         }
     ],
 
-     "carving": {
+     "notcarving": {
         "caves": [
             {
                 "breakSurface": true,

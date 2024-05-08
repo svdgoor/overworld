@@ -141,7 +141,7 @@
             }
         ]
     },
-    "carving": {"caves": [{
+    "notcarving": {"caves": [{
         "breakSurface": true,
         "cave": "rocky/tubes",
         "rarity": 11,

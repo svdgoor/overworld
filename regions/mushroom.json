@@ -104,7 +104,7 @@
     ],
     "shoreHeightMin": 3.2,
     "shoreHeightMax": 6.2,
-    "carving": {"caves": [{
+    "notcarving": {"caves": [{
         "breakSurface": true,
         "cave": "rocky/main",
         "rarity": 50,

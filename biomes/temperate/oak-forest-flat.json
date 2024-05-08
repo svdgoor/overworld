@@ -20,7 +20,7 @@
             "rarity": 1200
         }
     ],
-    "carving":{
+    "notcarving":{
         "caves": [
             {
                 "cave": "swamp/main",

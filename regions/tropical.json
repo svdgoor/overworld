@@ -89,7 +89,7 @@
         "ocean/dark-depth-ocean",
         "ocean/rich-oceans"
     ],
-    "carving": {
+    "notcarving": {
         "ravines": [{
             "rarity": 170,
             "ravine": "jungle/main"

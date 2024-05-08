@@ -24,7 +24,7 @@
     ],
     "shoreHeightMin": 2.2,
     "shoreHeightMax": 5.2,
-    "carving": {
+    "notcarving": {
         "ravines": [{
             "rarity": 25,
             "ravine": "calcite/main"

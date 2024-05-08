@@ -85,7 +85,7 @@
             }
         }
     },
-        "carving": {"caves": [
+        "notcarving": {"caves": [
         {
             "breakSurface": true,
             "cave": "cavesv4/dark-depths/tubes",

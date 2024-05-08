@@ -106,7 +106,7 @@
     "landBiomeZoom": 4.5,
     "shoreHeightMin": 2.2,
     "shoreHeightMax": 5.2,
-    "carving": {
+    "notcarving": {
         "ravines": [
             {
                 "rarity": 400,

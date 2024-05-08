@@ -122,7 +122,7 @@
         "frozen/cave",
         "frozen/water"
     ],
-    "carving": {
+    "notcarving": {
         "ravines": [{
             "rarity": 150,
             "ravine": "ice/main"

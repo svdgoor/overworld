@@ -3,7 +3,7 @@
     "entitySpawners": [
         "mystical/magical-forest"
     ],
-    "carving":{
+    "notcarving":{
         "caves": [
             {
                 "cave": "cavesv4/crystalized/tubes",

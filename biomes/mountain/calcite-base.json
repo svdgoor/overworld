@@ -12,7 +12,7 @@
         }
 
      ],
-     "carving": {"caves": [
+     "notcarving": {"caves": [
         {
             "breakSurface": true,
             "cave": "calcite/main",

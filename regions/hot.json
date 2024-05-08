@@ -139,7 +139,7 @@
         }
     ],
 
-    "carving": {
+    "notcarving": {
         "ravines": [
             {
                 "rarity": 731,

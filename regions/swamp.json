@@ -94,7 +94,7 @@
     "landBiomeZoom": 2,
     "shoreHeightMin": 1.2,
     "shoreHeightMax": 3,
-    "carving": {"caves": [{
+    "notcarving": {"caves": [{
         "breakSurface": true,
         "cave": "swamp/main",
         "rarity": 10,
